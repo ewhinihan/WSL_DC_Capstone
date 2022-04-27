@@ -1,4 +1,4 @@
-# WSL_DC_Capstone
+# WSL_Data_Curation_Capstone_Repository
 This repository is for UW MLIS Capstone project created by Gina Rome, Caitlin W. Smith, and Erika Whinihan.
 
 The data included here are raw data files and cleaned data files for deposit into the Washington State Library (WSL)
