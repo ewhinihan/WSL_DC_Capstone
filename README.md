@@ -8,6 +8,9 @@ Original dataset lives here: https://data.wa.gov/Culture-and-Community/Washingto
 Created by: Kathleen Sullivan, Open Data Librarian, WSL
 
 For questions on this data and project please contact:
+
 Gina Rome | gina.e.rome@gmail.com
+
 Caitlin Weil Smith | caitlin_weil@yahoo.com
+
 Erika Whinihan | erikaann20@hotmail.com
