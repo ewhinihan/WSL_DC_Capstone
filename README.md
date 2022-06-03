@@ -6,3 +6,8 @@ data repository. This repository also links to a GitBook protocol which serves a
 
 Original dataset lives here: https://data.wa.gov/Culture-and-Community/Washington-State-Public-Library-Services-during-CO/ma99-sxnd
 Created by: Kathleen Sullivan, Open Data Librarian, WSL
+
+For questions on this data and project please contact:
+Gina Rome | gina.e.rome@gmail.com
+Caitlin Weil Smith | caitlin_weil@yahoo.com
+Erika Whinihan | erikaann20@hotmail.com
